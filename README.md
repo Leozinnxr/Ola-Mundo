@@ -1,2 +1,4 @@
-# Ola Mundo!
-Primeiro repositório usando Git e GitHub
+# Olá, Mundo!
+Primeiro repositório usando Git e GitHub.
+
+Curso do <GustavoGuanabara/CursoEmVideo>
